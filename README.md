@@ -11,12 +11,12 @@
 - [ ] Read the Mathematics for Machine Learning book
       - [ ] Practice most maths in Jax or numpy
 - [ ] Read the Deep Learning book
-     - [ ] Practice it using Pytorch  
+      - [ ] Practice it using Pytorch  
 - [ ] Learn Onnx
 - [ ] build models
-   - [ ] GPT
-   - [ ] LLAMA
-   - [ ] MOE
-   - [ ] DEEPSEEK
-   - [ ] ETC...
+      - [ ] GPT
+      - [ ] LLAMA
+      - [ ] MOE
+      - [ ] DEEPSEEK
+      - [ ] ETC...
 
