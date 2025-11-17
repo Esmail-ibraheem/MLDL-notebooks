@@ -1,4 +1,5 @@
 # MLDL-notebooks
 
-## Teaching all of the possible concepts in AI and machine learning
+## Put here my journey of learning AI from the ground up, starting with Pytorch, Jax, Tensorflow, etc, to build my own model. 
+
  
